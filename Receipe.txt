@@ -2,3 +2,6 @@ Kitchen.com
 
 Veg briyani
 Veg meals
+
+Chicken briyani
+Mutton briyani
